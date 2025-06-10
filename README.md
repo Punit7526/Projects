@@ -80,15 +80,6 @@ To present a dynamic, interactive report on sales, profit, quantity, and custome
 
 ---
 
-## 📸 Optional: Add Visuals
-
-> Include screenshots of:  
-> - Notebook outputs (matplotlib/seaborn graphs)  
-> - Power BI Dashboard  
-> - Any insights or trends  
-
----
-
 ## 👨‍💻 Author
 
 **Punit Dagar**  
